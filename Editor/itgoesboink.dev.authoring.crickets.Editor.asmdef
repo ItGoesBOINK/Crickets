@@ -1,0 +1,17 @@
+{
+    "name": "itgoesboink.dev.authoring.Crickets.Editor",
+    "references": [
+        "itgoesboink.dev.authoring.Crickets"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

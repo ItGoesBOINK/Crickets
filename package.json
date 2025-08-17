@@ -1,0 +1,18 @@
+{
+  "name": "itgoesboink.dev.authoring.crickets",
+  "version": "0.0.2",
+  "displayName": "Crickets",
+  "description": "A Completely Empty Window to Save on IMGUI-Style Editor Rendering During Testing",
+  "unity": "2022.3",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://github.com/ItGoesBOINK/Crickets#",
+  "changelogUrl": "https://github.com/ItGoesBOINK/Crickets/activity",
+  "licensesUrl": "https://github.com/ItGoesBOINK/Crickets?tab=Apache-2.0-1-ov-file#readme",
+  "dependencies": {},
+ "keywords": [],
+  "author": {
+    "name": "It Goes BOINK!",
+    "email": "itgoesboink@gmail.com",
+    "url": "http://www.itgoesboink.com"
+  }
+}
